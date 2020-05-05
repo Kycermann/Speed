@@ -1,0 +1,8 @@
+name: Speed
+author: Mieszko Kycermann
+main: xyz.mieszko.speed.Speed
+version: 1.0.0
+commands:
+    speed:
+        description: Set your walking or flying speed
+        usage: /speed <speed>
